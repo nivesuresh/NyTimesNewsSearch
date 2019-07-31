@@ -18,3 +18,5 @@ Things I could have done if I had more time:
 - Having an empty-state screen
 - Making the search view look/ feel better
 - Placeholder image for when there's no multimedia URLs
+- Stored the API key more securely (potentially using KeyStore)
+
